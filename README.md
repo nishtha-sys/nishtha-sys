@@ -105,7 +105,6 @@ An intelligent campus platform that centralizes essential student utilities — 
 ---
 
 ### 🟢 HRVerse — AI Internal HR Assistant
-**FastAPI · Heuristic NLP · Responsive Web Interface**
 
 An intelligent chatbot that streamlines HR-related queries — leave policies, benefits, insurance, and company guidelines.
 
@@ -118,9 +117,10 @@ An intelligent chatbot that streamlines HR-related queries — leave policies, b
 ## 🏆 Achievements & Hackathons
 
 - 🔹 **INNVEDX Hackathon** (via Unstop) — Collaborated in a team on real-world innovation challenges; gained hands-on experience in rapid prototyping, problem analysis & team collaboration under time constraints
-- 🎓 **Oracle OCI AI Professional Training** *(In Progress)* — AI model deployment, cloud infrastructure & enterprise AI applications
+
 - 📜 **IBM Certification** (AI / Tech Domain) — ML basics, AI workflows & industry use cases
-- 🌱 **Yuva AI Program** — Emerging AI tools, practical implementation & industry-relevant AI trends
+
+- 🌱 **Yuva AI Program/TCSION** — Emerging AI tools, practical implementation & industry-relevant AI trends
 
 ---
 
