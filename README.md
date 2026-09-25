@@ -8,9 +8,9 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a highly motivated AI/ML Engineer and Full-Stack Developer with hands-on experience building real-world, production-ready projects. I thrive at the intersection of artificial intelligence and software engineering — turning ideas into impactful, scalable solutions.
+AI/ML Engineer and Full-Stack Developer with hands-on experience building real-world, production-ready projects. I thrive at the intersection of artificial intelligence and software engineering — turning ideas into impactful, scalable solutions.
 
-My mission is to build AI-driven products that solve meaningful real-world problems, contribute to innovative startups, and continuously grow at the cutting edge of tech.
+I build AI-driven products that solve meaningful real-world problems, contribute to innovative startups, and continuously grow at the cutting edge of tech.
 
 ---
 
