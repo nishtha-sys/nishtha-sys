@@ -1,12 +1,12 @@
 <h1 align="center">Nishtha Sahani | AI/ML Engineer & Full-Stack Developer</h1>
 
 <p align="center">
-  🎓 Passionate about building real-world AI-powered products &nbsp;|&nbsp; 💡 Startup Mindset &nbsp;|&nbsp; 🚀 Hackathon Enthusiast
+  🎓 Passionate about building real-world AI-powered products &nbsp;|&nbsp;  Startup Mindset &nbsp;|&nbsp;  Hackathon Enthusiast
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 AI/ML Engineer and Full-Stack Developer with hands-on experience building real-world, production-ready projects. I thrive at the intersection of artificial intelligence and software engineering — turning ideas into impactful, scalable solutions.
 
@@ -16,8 +16,8 @@ I build AI-driven products that solve meaningful real-world problems, contribute
 
 ## 🔭 Currently Working On
 
-- 🌐 Full-Stack applications using React, Next.js & Node.js
-- 🤖 AI-driven platforms for **education** and **automation**
+-  Full-Stack applications using React, Next.js & Node.js
+-  AI-driven platforms for **education** and **automation**
 
 ---
 
